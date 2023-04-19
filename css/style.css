@@ -1,6 +1,21 @@
 body {
     font-size: 18px;
-    color: deeppink;
-    text-align: center;
-    font-size: "Arial";
+    color: #3f3d3d;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+.container {
+    align-items: center;
+    padding: 1em;
+    text-align: center;
+}
+
+.post {
+    margin: 0pc auto;
+    width: 50%;
+    border: 1px solid #c7c5c5;
+}
+.post p {
+    font-size: 20px;
+}
+
