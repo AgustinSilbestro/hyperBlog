@@ -7,7 +7,7 @@ body {
 .container {
     align-items: center;
     padding: 1em;
-    text-align: center;
+    text-align: start;
 }
 
 .post {
@@ -15,7 +15,12 @@ body {
     width: 50%;
     border: 1px solid #c7c5c5;
 }
-.post p {
-    font-size: 20px;
+.post p{
+    margin-left: 15px;
+    font-size: 18px;
 }
 
+.post h1{
+    margin-left: 15px;
+    font-size: 28px;
+}
