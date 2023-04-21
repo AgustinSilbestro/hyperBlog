@@ -28,8 +28,6 @@ body {
     margin: 15px;
     align-items: center;
     padding: 1em;
-    text-align: start;
-    text-align: center;
 }
 
 .post {
@@ -39,7 +37,7 @@ body {
 }
 .post p{
     margin-left: 15px;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .post h1{
@@ -47,7 +45,3 @@ body {
     font-size: 28px;
 }
 
-
-.post p {
-    font-size: 20px;
-}
