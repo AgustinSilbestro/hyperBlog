@@ -1,4 +1,5 @@
 body {
+    background-color: #333;
     font-size: 18px;
     color: #333;
     font-family: Arial, Helvetica, sans-serif;
@@ -15,11 +16,17 @@ body {
     font-family: "Arial";
 }
 
-.cabecera h3{
+#logo-header {
+    width: 60px;
+    vertical-align: middle;
+}
+
+.cabecera h3 {
     margin-left: 10px;
     display: block;
 }
-.cabecera h1{
+
+.cabecera h1 {
     margin-left: 15px;
     font-size: 30px;
 }
@@ -34,13 +41,15 @@ body {
     margin: 0pc auto;
     width: 60%;
     border: 1px solid #c7c5c5;
+    background-color: #fff;
 }
-.post p{
+
+.post p {
     margin-left: 15px;
     font-size: 20px;
 }
 
-.post h1{
+.post h1 {
     margin-left: 15px;
     font-size: 28px;
 }
